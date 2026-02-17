@@ -55,6 +55,7 @@ Analyzes early vs long-term customer churn patterns.
 # Repository Contents
 - FUTURE_DS_02.pbix
 - Dashboard Screenshot
+- WA_Fn-UseC_-Telco-Customer-Churn.csv
 - README.md
 
 # Conclusion
